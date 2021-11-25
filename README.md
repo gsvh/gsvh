@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gsvh
-- 👀 I’m interested in Web Application Development and Python Automations as well as Trading Algorythms.
+- 👀 I’m interested in Web Application Development using React
 - 🌱 I’m currently learning C# and ASP.NET.
 - 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 You can reach me with any standard two wing Homing Pidgeon or any ancient Indian Smoke Signal techniques.
