@@ -28,7 +28,7 @@
 
 <h2 align="left">About me:</h2>
 <p>I am a full-stack software engineer based in South Africa. I believe anything is possible if you put your mind to it.</p>
-
+<p>Unfortunately I can't use my personal Github account at my current job, so all of these statistics are from my free time only</p>
 <h2 align="left">My projects:</h2>
 <h3>jit</h3>
 <p>I have recently started my first open source project. It is a command line tool called <em>jit</em>. It generates a pull request description using a local LLM (and creates the PR too!) </p>
